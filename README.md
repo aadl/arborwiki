@@ -6,6 +6,21 @@ This repository contains various scripts, tools and links to data dumps of the w
 
 #### History
 
+**Arborwiki V1 - Mediawiki**
+
+Arborwiki started as a Mediawiki installation in 2005.
+
+Dumps
+* [Arborwiki Mediawiki XML Dump of Revisions and Uploads](https://s3.amazonaws.com/arborwiki/arborwiki-fullxml-final.xml.gz)
+* [Arborwiki Mediawiki Images Directory](https://s3.amazonaws.com/arborwiki/arborwiki-images-final.tar.gz)
+* [Arborwiki MediaWiki Skins Directory](https://s3.amazonaws.com/arborwiki/arborwiki-skins-final.tar.gz)
+
+
+**Arborwiki V2 - Localwiki**
+
+
+**Arborwiki V3 - Localwiki.org**
+
 
 #### Related
 
