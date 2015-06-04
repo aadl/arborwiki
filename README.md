@@ -11,9 +11,9 @@ This repository contains various scripts, tools and links to data dumps of the w
 Arborwiki started as a Mediawiki installation in 2005.
 
 Dumps
-* [Arborwiki Mediawiki XML Dump of Revisions and Uploads](https://s3.amazonaws.com/arborwiki/arborwiki-fullxml-final.xml.gz)
-* [Arborwiki Mediawiki Images Directory](https://s3.amazonaws.com/arborwiki/arborwiki-images-final.tar.gz)
-* [Arborwiki MediaWiki Skins Directory](https://s3.amazonaws.com/arborwiki/arborwiki-skins-final.tar.gz)
+* [Arborwiki Mediawiki XML Dump of Revisions and Uploads](https://s3.amazonaws.com/arborwiki/arborwiki-fullxml-final.xml.gz) (6.5MB)
+* [Arborwiki Mediawiki Images Directory](https://s3.amazonaws.com/arborwiki/arborwiki-images-final.tar.gz) (435MB)
+* [Arborwiki MediaWiki Skins Directory](https://s3.amazonaws.com/arborwiki/arborwiki-skins-final.tar.gz) (527KB)
 
 
 **Arborwiki V2 - Localwiki**
