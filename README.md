@@ -8,7 +8,7 @@ This repository contains various scripts, tools and links to data dumps of the w
 
 **Arborwiki V1 - Mediawiki**
 
-Arborwiki started as a Mediawiki installation in 2005.
+Arborwiki started as a Mediawiki installation in 2005. It was originally created and hosted by [Matt Hampel](https://github.com/hampelm) and later hosted by [AADL](http://www.aadl.org). It was migrated to a Localwiki installation hosted at AADL around March 2011.
 
 Dumps
 * [Arborwiki Mediawiki XML Dump of Revisions and Uploads](https://s3.amazonaws.com/arborwiki/arborwiki-fullxml-final.xml.gz) (6.5MB)
